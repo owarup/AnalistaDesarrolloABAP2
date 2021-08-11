@@ -6,7 +6,31 @@
 * Post a new user
 * Update users
 * Delete a user by id 
-* Find user by properties 
+
+### Get
+localhost:8080/AnalistaDesarrolloABAP2/api/productos
+
+###Post
+localhost:8080/AnalistaDesarrolloABAP2/api/productos
+
+###Update
+localhost:8080/AnalistaDesarrolloABAP2/api/productos/2
+
+body 
+    {     
+        "color": "",
+        "dimension": "",
+        "capacidad": "",
+        "modelo": "",
+        "material": "",
+        "calidad": "",
+        "cantidad": 0
+    }
+
+###Delete
+localhost:8080/AnalistaDesarrolloABAP2/api/productos/2
+
+
 
 ### Iniciar la aplicación 
 Asegurarse de tener
