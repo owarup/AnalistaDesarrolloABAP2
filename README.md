@@ -7,15 +7,15 @@
 * Update users
 * Delete a user by id 
 
-#Get
+*Get
 
 localhost:8080/AnalistaDesarrolloABAP2/api/productos
 
-#Post
+*Post
 
 localhost:8080/AnalistaDesarrolloABAP2/api/productos
 
-#Update
+*Update
 
 localhost:8080/AnalistaDesarrolloABAP2/api/productos/2
 
@@ -30,7 +30,7 @@ body
         "cantidad": 0
     }
 
-###Delete
+*Delete
 
 localhost:8080/AnalistaDesarrolloABAP2/api/productos/2
 
